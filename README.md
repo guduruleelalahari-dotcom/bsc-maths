@@ -1,2 +1,2 @@
-# bsc-maths
+# bscmaths
 day 1
